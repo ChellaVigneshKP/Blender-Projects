@@ -1,0 +1,142 @@
+# Blender 4.1.1 MTL File: 'Owl Girl.blend'
+# www.blender.org
+
+newmtl Base
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 0.516364
+illum 9
+map_Kd D:/Owl Girl/billboard_albedo.tga.png
+map_Ke D:/Owl Girl/billboard_albedo.tga.png
+
+newmtl Material.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ke D:/Owl Girl/cloth_emissive.tga.png
+
+newmtl Material.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ke D:/Owl Girl/backpack_emissive.tga.png
+
+newmtl Material.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd D:/Owl Girl/backpack_shadow.tga.png
+map_Ke D:/Owl Girl/backpack_emissive.tga.png
+
+newmtl Material.005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd D:/Owl Girl/backpack_emissive.tga.png
+
+newmtl Material.006
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ke D:/Owl Girl/cloth_emissive.tga.png
+
+newmtl Material.007
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Material.008
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ke D:/Owl Girl/backpack_emissive.tga.png
+
+newmtl Material.009
+Ns 248.185135
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Ke D:/Owl Girl/backpack_emissive.tga.png
+
+newmtl Material.011
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.014545
+illum 1
+map_Kd D:/Owl Girl/backpack_emissive.tga.png
+map_Ke D:/Owl Girl/backpack_emissive.tga.png
+
+newmtl Material.012
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.094545
+illum 9
+map_Kd D:/Owl Girl/cloth_albedo.tga.png
+
+newmtl paladin_pages.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 1.000000 1.000000 1.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl paladins_book.001
+Ns 27.727917
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 1.000000 1.000000 1.000000
+Ni 1.500000
+d 1.000000
+illum 2
